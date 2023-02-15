@@ -11,7 +11,7 @@ function AppHeader() {
       <CssBaseline />
       <Toolbar>
         <Image src="/reserve.svg" alt="Reserve Logo" width={200} height={100} />
-        <Typography variant="h5" style={{ fontFamily: "BlinkMacSystemFont" }}>
+        <Typography variant="h5" style={{ fontFamily: "Helvetica" }}>
           RToken Backtester
         </Typography>
       </Toolbar>
